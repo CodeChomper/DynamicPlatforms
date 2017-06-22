@@ -29,7 +29,7 @@ margin/bottom = 465.0
 
 [node name="player" parent="." instance=ExtResource( 2 )]
 
-transform/pos = Vector2( 189.114, 7.80881 )
+transform/pos = Vector2( 192.114, 42.8088 )
 script/script = ExtResource( 3 )
 
 
